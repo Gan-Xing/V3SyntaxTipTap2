@@ -8,6 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tiptap/starter-kit": "^2.1.11",
+    "@tiptap/vue-2": "^2.1.11",
+    "@vue/composition-api": "^1.7.2",
     "core-js": "^3.8.3",
     "vue": "^2.6.14"
   },
